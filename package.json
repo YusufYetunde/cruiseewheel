@@ -1,0 +1,46 @@
+{
+  "name": "cruiseewheel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@hookform/resolvers": "^3.6.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-popover": "^1.1.1",
+    "@radix-ui/react-select": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "country-state-city": "^3.2.1",
+    "date-fns": "^3.6.0",
+    "embla-carousel-react": "^8.0.4",
+    "framer-motion": "^11.2.2",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.378.0",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.4.0",
+    "next": "^14.2.3",
+    "nodemailer": "^6.9.13",
+    "react": "^18.3.1",
+    "react-day-picker": "^8.10.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.52.0",
+    "react-icons": "^5.2.1",
+    "react-leaflet": "^4.2.1",
+    "sharp": "^0.33.4",
+    "stripe": "^15.7.0",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
